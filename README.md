@@ -61,11 +61,6 @@ Swagger documentation:
 http://localhost:8000/docs
 ```
 
-## Tutorial
-
-This project was built by following this tutorial:
-
-**Tutorial:** [YouTube Link](https://youtu.be/Q5xqG3CWlfQ?si=9evU6JPG9uTClBi5)
 
 ## Project Status
 
